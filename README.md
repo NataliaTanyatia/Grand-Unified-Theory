@@ -64,7 +64,7 @@ This work provides the first complete mathematical unification of:
 
 through the common language of fractal aether dynamics. The theory offers testable predictions while maintaining consistency with all established physical laws, potentially revolutionizing our understanding of spacetime, matter, and energy at all scales.
 
-##Peer Revied:
+### **Peer Revied:**
 
 unified Field Theory of Physics: On A Solution To Hilbert’s Sixth Problem:
 https://ai.vixra.org/abs/2503.0023
@@ -72,5 +72,5 @@ https://ai.vixra.org/abs/2503.0023
 The Aetheric Foundations of Reality: Unifying Quantum Mechanics, Gravity, and Consciousness Through a Dynamic Aether Paradigm:
 https://ai.vixra.org/abs/2503.0024
 
-##Mirrors:
+### **Mirrors:**
 https://independent.academia.edu/NataliaTanyatia
