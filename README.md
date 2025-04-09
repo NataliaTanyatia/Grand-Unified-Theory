@@ -1,4 +1,4 @@
----
+it---
 **Unlocking the Universe: Aether, Fractals, and the Symphony of Everything**  
 
 Imagine standing at the edge of a cosmic ocean, where the waves are not made of water but of swirling aether—a hidden medium that binds the fabric of reality itself. This is the bold vision of Natalia Tanyatia’s groundbreaking thesis, *Unified Theory of Physics: On A Solution To Hilbert's Sixth Problem*. It’s not just a paper; it’s a manifesto for a revolution in how we understand *everything*.  
@@ -64,7 +64,7 @@ This work provides the first complete mathematical unification of:
 
 through the common language of fractal aether dynamics. The theory offers testable predictions while maintaining consistency with all established physical laws, potentially revolutionizing our understanding of spacetime, matter, and energy at all scales.
 
-### **Peer Revied:**
+### **Peer Revied:**(as much as it's probably going to get for someone with no institutional affiliation or endorsment)
 
 unified Field Theory of Physics: On A Solution To Hilbert’s Sixth Problem:
 https://ai.vixra.org/abs/2503.0023
